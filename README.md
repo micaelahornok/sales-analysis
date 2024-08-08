@@ -17,9 +17,8 @@ This project involves a comprehensive analysis of US regional sales data to unco
 
 ## Data Source
 
-The dataset used in this project is:
-
 **Title:** US Regional Sales Data
+
 **Description:** The dataset used for this analysis, US Regional Sales Data, includes detailed sales transactions across various sales channels. It contains 17,992 rows and 15 columns, offering a broad view of sales activities and customer interactions. The dataset enables deep analysis of sales patterns, trends, and opportunities.
 
 **Citation:**
