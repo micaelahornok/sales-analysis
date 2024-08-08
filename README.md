@@ -13,7 +13,7 @@
 
 ## Overview
 
-This project involves a comprehensive analysis of US regional sales data to uncover actionable insights and trends. The analysis includes data cleaning, exploration, and visualization to understand sales patterns, channel performance, and profitability. Using SQL for data manipulation and Google Sheets for creating a [dashboard](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing), the project aims to provide insights into sales performance and strategic opportunities.
+This project involves a comprehensive analysis of US regional sales data to uncover actionable insights and trends. The dataset used is synthetic for the purpose of demonstrating data analysis techniques rather than representing actual data/trends. The analysis includes data cleaning, exploration, and visualization to understand sales patterns, channel performance, and profitability. Using SQL for data manipulation and Google Sheets for creating an interactive  [dashboard](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing), the project aims to provide insights into sales performance and strategic opportunities.
 
 ## Data Source
 
