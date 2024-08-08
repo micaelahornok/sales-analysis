@@ -207,13 +207,16 @@ In the Data Visualization phase, I created several visualizations to effectively
 **Dashboard Overview:** Developed a comprehensive [dashboard](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing) displaying key metrics, including total profit, total revenue, and annual revenue and profit. This allowed for a quick and intuitive overview of financial performance across different years.
 
 **Revenue by Sales Channel:** Created a pie chart to illustrate the distribution of total revenue by sales channel, providing a clear visual representation of the contribution of each channel to overall sales.
+
 ![Total Revenue by Sales Channel](https://github.com/user-attachments/assets/4ac32f8e-db11-44f3-9308-c36eeed3c55c)
 
 **Top 10 Customers and Products:** Designed bar charts to highlight the top 10 customers and top 10 products by revenue. These charts facilitated the identification of major revenue contributors.
+
 ![chart](https://github.com/user-attachments/assets/8d2e081e-fedb-4b9f-8404-49b1a5faa383)
 ![chart (1)](https://github.com/user-attachments/assets/181dd5a6-5c4c-4bd2-a5c8-5e7813832b81)
 
 **Annual Profit and Revenue by Sales Channel:** Developed a bar chart showcasing the annual profit and revenue for each sales channel, enabling a comparison of financial performance across different channels over time.
+
 ![Annual Revenue and Profit by Sales Channel](https://github.com/user-attachments/assets/004e6f66-9953-4c03-a90b-39159632f733)
 
 **Monthly Revenue Trends:** Constructed a bar chart to visualize the average revenue for each month, which helped identify seasonal trends and fluctuations throughout the year.
@@ -221,6 +224,7 @@ In the Data Visualization phase, I created several visualizations to effectively
 ![Revenue Averages by Month](https://github.com/user-attachments/assets/80ef1828-359e-4608-b0e6-fa14688047dc)
 
 **Total Monthly Revenue Distribution:** Created an area line graph to depict the fluctuation in total monthly revenue distribution, providing insight into revenue trends and variations over time.
+
 ![Total Monthly Revenue Distribution](https://github.com/user-attachments/assets/6a3008b9-55ad-49d5-835d-639c210d7552)
 
 These visualizations were designed to enhance understanding of sales performance, identify key trends, and support data-driven decision-making. Click [here](https://docs.google.com/spreadsheets/d/1Dijq-VLYPq0nCWAXwUoLafBWJh7JGqsTFhO5ov3vHUs/edit?usp=sharing) to view the dashboard.
